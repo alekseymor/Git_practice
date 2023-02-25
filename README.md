@@ -6,9 +6,6 @@ Here is a header
 And here is a sub-header
 ------
 
-1. Item 1
-2. Item 2
-3. Item 3
-
-*Emphasis*
+<li> GitPages Website </li>
+<h1> Hello! </h1>
 
